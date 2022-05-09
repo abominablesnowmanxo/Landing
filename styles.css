@@ -76,7 +76,7 @@ body {
 }
 
 .image img {
-    width: 100%;
+    width: 130%;
     height: 100%;
     object-fit: cover;
     transform: translateX(-33px);
