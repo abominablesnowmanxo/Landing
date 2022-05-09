@@ -52,11 +52,11 @@ body {
     
 }
 
-.card:hover + .hiddencard {
+.card:hover + .hiddencard, .card:active + .hiddencard {
     width: 483px;
 }
 
-.hiddencard:hover {
+.hiddencard:hover, .hiddencard:active {
     width: 483px;
 }
 
